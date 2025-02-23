@@ -1,0 +1,100 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+    ;
+}
+.main_container{
+ height: 100vh;
+ width: 70%;
+ 
+ border: 1px solid black;
+ background-color: white
+ 
+ 
+}
+
+.heading_{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+ font-size: larger;
+ font-weight: 900;
+ margin-left: 10px;
+ 
+}
+.below_heading{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    align-items: center;
+}
+.right_image{
+    margin-left: 10px;
+}
+.below_image_container{
+    display: flex;
+
+    margin-top: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+.below_image_text{
+    margin-left: 10px;
+}
+.below_image_text_image{
+    margin-left: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.card_3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.card_1{
+    background-color:  rgb(221, 225, 224);
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 3px;
+}
+.card_2{
+    background-color: rgb(221, 225, 224);
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 3px;
+}
+.card__3{
+    background-color: rgb(221, 225, 224);
+    width: 800px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 3px;
+}
+.what{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    margin-left: 10px;
+}
+.below_image_text{
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+}
+.right_image{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: 500;
+}
+.button_1{
+    background-color: green;
+    color: azure;
+    width: 200px;
+    height: 35px;
+    border-radius: 3px;
+}
+
+
